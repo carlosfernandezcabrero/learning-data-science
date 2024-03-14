@@ -4,7 +4,7 @@ Repositorio para aprender data science con Python y las herramientas Pandas y Ma
 
 ![alt text](examples/output.png)
 
-***NOTA: Los datos som de ejemplo por lo que la correspondencia entre gráficas no esta garantizada ya que mi objetivo es aprender las tecnologías.***
+***NOTA: Los datos son de ejemplo por lo que la correspondencia entre gráficas no esta garantizada ya que mi objetivo es aprender las tecnologías.***
 
 ## Datos
 

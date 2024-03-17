@@ -8,7 +8,7 @@ Repositorio para aprender data science con Python y las herramientas Pandas y Ma
 
 ## Datos
 
-Para aprender Pandas y Matplotlib he utilizados datos ficticios de conceptos percibidos en una nomina de 14 meses. Estos datos están guardados en una base de datos llamada `earnings.db` que se encuentra dentro de la carpeta `data`. Los esquemas de todas las tablas creadas en la base de datos están presentes en el archivo `tables.py`.
+Para aprender Pandas y Matplotlib he utilizados datos 14 nominas con conceptos salariales ficticios y cantidades aleatorias. Estos datos están guardados en una base de datos llamada `earnings.db` que se encuentra dentro de la carpeta `data`. Los esquemas de todas las tablas creadas en la base de datos están presentes en el archivo `tables.py`.
 
 ## Uso
 
